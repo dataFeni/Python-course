@@ -12,6 +12,8 @@ def main():
     print(convert_to_snake_case('IAmAPascalCasedString'))
 main()
 
+
+# FOR LOOP
 # snake_cased_char_list = []
     # for char in pascal_or_camel_cased_string:
     #     if char.isupper():
